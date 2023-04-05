@@ -11,7 +11,7 @@ Soporte para instalacion de ambiente de trabajo para visual basic 6 sp 6
 ## Features and Tech
 
 - Visual basic 6 sp 6
-- Visual Basic View
+- Visual Studio View 8.0
 - visual Basic Flex Grid
 - Active Report
 - Librerias OCX y OCA
@@ -22,7 +22,7 @@ Soporte para instalacion de ambiente de trabajo para visual basic 6 sp 6
 - Sql Server 2005/2008R2/2014
 - Chilkatax 9.5.0
 
-Todo lo explicado en esta guia fue testeado en windows 7/8/10/11
+Todo lo explicado en esta guia fue testeado en windows 7/8/10/11, basicamente si solo se desea VB6 en windows 64 bit, solo llegar al paso 1, lo demas es para proyectos de betasepp.
 
 > No salte ningun paso, uno a uno siga las instrucciones
 
@@ -46,8 +46,9 @@ Utilice los siguientes link
 
 ## 02 - Instalacion de Visual Studio View
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [VSView80](https://mega.nz/file/szZRUSZA#KwjIYDvKBi9aYr-I1Rn5VP5J4QreD2EX1zoQxb-VQD4)
 
+    -Ejecutar Setup.Exe y utilizar el numero de serie en Serial.txt
 
 ## 03 - Instalacion de Visual Studio Flex Grid
 
