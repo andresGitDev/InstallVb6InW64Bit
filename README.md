@@ -15,8 +15,8 @@ Soporte para instalacion de ambiente de trabajo para visual basic 6 sp 6
 - visual Studio Flex Grid 7 Pro
 - Active Report
 - Librerias OCX y OCA
-- Crystal Report
-- Afip WebService
+- Crystal Reports Professional Edition 9.2
+- Afip WebService 92
 - Universal Document
 - Office 2003/2007/2010/2014
 - Sql Server 2005/2008R2/2014
@@ -40,7 +40,7 @@ Utilice los siguientes link
     -O no, quedara como en la siguiente imagen y no termina, cerrar el proceso
         ![final no correcto](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/install-vb6-no-final.JPG)
 
-- Segundo Pago [Visual Basic (Complemento)](https://mega.nz/file/N2BjlKzJ#xir3Ayg3MXNRFpXMBvBbnWllSWb7Ri-rjnAdk8qPDpA)
+- Segundo paso [Visual Basic (Complemento)](https://mega.nz/file/N2BjlKzJ#xir3Ayg3MXNRFpXMBvBbnWllSWb7Ri-rjnAdk8qPDpA)
 
     -Sin importar si termina o no la instalacion anterior, ya que termina de registrar librerias
     -Orden de instalacion : vb6.exe, sp6.exe y parcheSp6.msi
@@ -75,7 +75,9 @@ Utilice los siguientes link
 
 ## 06 - Instalacion de Crystal Report
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [CrystalReport9.2](https://mega.nz/file/07QVWQQb#1tn_Rhxoms66WPEvVzi5k5U92g_beasYn2QkRItvyhM)
+
+    -Colgar imagen de disco ISO CrystalReport.iso, ejecutar Setup.exe y utilizar las claves en serial.txt
 
 
 ## 07 - Instalacion de Afip WebService
