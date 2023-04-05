@@ -42,6 +42,7 @@ Utilice los siguientes link
 
 - Segundo Pago [Visual Basic (Complemento)](https://mega.nz/file/N2BjlKzJ#xir3Ayg3MXNRFpXMBvBbnWllSWb7Ri-rjnAdk8qPDpA)
 
+    -Sin importar si termina o no la instalacion anterior, ya que termina de registrar librerias
     -Orden de instalacion : vb6.exe, sp6.exe y parcheSp6.msi
 
 ## 02 - Instalacion de Visual Studio View
@@ -59,7 +60,9 @@ Utilice los siguientes link
 
 ## 04 - Instalacion de Active Report
 
-- Descargar [X](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [ActiveReportEval](https://mega.nz/file/c6pgBIgK#em8PYckVOKWUwL_INcGvdYLoYos6gF0OB9MI58nw7bs)
+
+    -Orden de instalacion: ar2ProEval.exe, ar2ProSp1.exe y ar2ProSp2.exe, luego ejecutar register
 
 
 ## 05 - Instalacion de Librerias para System32 y SysWOW64
