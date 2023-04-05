@@ -17,7 +17,7 @@ Soporte para instalacion de ambiente de trabajo para visual basic 6 sp 6
 - Librerias OCX y OCA
 - Crystal Reports Professional Edition 9.2
 - Afip WebService 92.2
-- Universal Document
+- Universal Document 6.5
 - Office 2003/2007/2010/2014
 - Sql Server 2005/2008R2/2014
 - Chilkatax 9.5.0
@@ -87,7 +87,10 @@ Utilice los siguientes link
 
 ## 08 - Instalacion de Universal Document
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [UDC65](https://mega.nz/file/Z2hiyKQI#wwEHBAcSoIhdBlZHAahjiZOOvr8ZjdFDPdzVgKGhd1A)
+
+    -Desactivar Antivirus
+    -Ejecutar Keygen6.exe, copiar serial , ejecutar Setup.exe y utilizar el serial copiada
 
 
 ## 09 - Instalacion de Office 2003/2007/2010/2014
