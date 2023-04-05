@@ -12,7 +12,7 @@ Soporte para instalacion de ambiente de trabajo para visual basic 6 sp 6
 
 - Visual basic 6 sp 6
 - Visual Studio View 8.0
-- visual Basic Flex Grid
+- visual Studio Flex Grid 7 Pro
 - Active Report
 - Librerias OCX y OCA
 - Crystal Report
@@ -52,7 +52,9 @@ Utilice los siguientes link
 
 ## 03 - Instalacion de Visual Studio Flex Grid
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [VSFlexGrid7Pro](https://mega.nz/file/M2ZQTKhJ#4xvYmnHZw2IqqBJq-8voCjItgCYq3KwoY1EzCGZww7A)
+
+    -Ejecutar Setup.exe, si falla, colocar las librerias en la carpeta ocx en system32 y syswow64
 
 
 ## 04 - Instalacion de Active Report
