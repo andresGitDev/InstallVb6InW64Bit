@@ -16,7 +16,7 @@ Soporte para instalacion de ambiente de trabajo para visual basic 6 sp 6
 - Active Report
 - Librerias OCX y OCA
 - Crystal Reports Professional Edition 9.2
-- Afip WebService 92
+- Afip WebService 92.2
 - Universal Document
 - Office 2003/2007/2010/2014
 - Sql Server 2005/2008R2/2014
@@ -82,7 +82,7 @@ Utilice los siguientes link
 
 ## 07 - Instalacion de Afip WebService
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [WsAfipFe92](https://mega.nz/file/syI0hb7J#tT5dwB2egq2ZnHf1x6ljyMKANSlUfEhNFhpvOZEOo6c)
 
 
 ## 08 - Instalacion de Universal Document
