@@ -67,7 +67,10 @@ Utilice los siguientes link
 
 ## 05 - Instalacion de Librerias para System32 y SysWOW64
 
-- Descargar [X](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [Librerias](https://mega.nz/file/c7xC0YpD#vzorXkz0Acg74bmOrYh4a2NFhSlb3wjaMV19aXyHa9w)
+
+    -Copias todas en carpeta C:\Windows\System32 y C:\Windows\SysWOW64
+    -Luego dependiendo del proyecto y el error sera necesario cagarlo como componente
 
 
 ## 06 - Instalacion de Crystal Report
