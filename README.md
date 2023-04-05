@@ -33,5 +33,13 @@ Cualquier error surgido deberia ser solucionado con esta guia, de existir algo n
 Utilice los siguientes link
 
 - Primer paso [Visual Basic 6 (Base)](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
--Ejecutar Setup.exe, segun la version de windows puede finalizar
--O no, quedara como en la siguiente imagen y no termina, cerrar el proceso
+
+    -Ejecutar Setup.exe, segun la version de windows puede finalizar
+    ![final correcto](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/install-vb6-final.JPG)
+
+    -O no, quedara como en la siguiente imagen y no termina, cerrar el proceso
+        ![final no correcto](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/install-vb6-no-final.JPG)
+
+- Segundo Pago [Visual Basic (Complemento)](https://mega.nz/file/N2BjlKzJ#xir3Ayg3MXNRFpXMBvBbnWllSWb7Ri-rjnAdk8qPDpA)
+
+-Orden de instalacion : vb6.exe, sp6.exe y parcheSp6.msi
