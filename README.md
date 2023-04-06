@@ -72,6 +72,13 @@ Utilice los siguientes link
     -Copias todas en carpeta C:\Windows\System32 y C:\Windows\SysWOW64
     -Luego dependiendo del proyecto y el error sera necesario cagarlo como componente
 
+- Descargar [Net Framework 3.5 Base](https://mega.nz/file/YiAlVaxK#xgnVRY5MbdsaQIn42dCKs9zpg2O2B2s-RFngUkdBSbc)
+
+- Descargar [Net Framework 3.5 Completo](https://mega.nz/file/Y3ATyLpT#XeZUq5qCCaIfTselzPsBvUmmApdfOod2mAfswnhhemk)
+
+- Descargar [Net Framework 3.5 Full](https://mega.nz/file/4yhFFaIb#hnXJhDCHZOJ36BFxz-NbtjsCQyTb5290ac5Ms1CM8Vw)
+
+- Descargar [SMTP](https://mega.nz/file/J7A3WIIA#nGMubwew62zpc4R-XySELO1KOyHz4SJAJcEXTiC9BSE)
 
 ## 06 - Instalacion de Crystal Report
 
@@ -121,7 +128,7 @@ Utilice los siguientes link
 - Descargar [ISO SQL2008 R2](https://mega.nz/file/F2BiSASC#u7KHCdJtOQfxQX2iUPUZYlBhdVZUr1C8Czkt3NxCCe4)
 - Descargar [ISO SQL2014](https://mega.nz/file/JuRl2TCZ#X8MyPK8HrTEq2GIniJ2EpNevUB299c5hbQohtSyhRpc)
 - Descargar [TXT Clave for 2014](https://mega.nz/file/o2ZG2SrD#1x1soWnQ_9duh205apTNppDWwaB6Z-NlFgEvOCS67go)
-- Descargar [NET 3.5 for 2014](https://mega.nz/file/4yhFFaIb#hnXJhDCHZOJ36BFxz-NbtjsCQyTb5290ac5Ms1CM8Vw)
+
 
 ## 11 - Instalacion de Chilkatax 9.5.0 (Para proceso de QR)
 
@@ -139,5 +146,7 @@ solucion : Paso 05
 | Plugin | Url |
 | ------ | ------ |
 | SourceTree | [https://www.sourcetreeapp.com/] |
+| TortoiseGit | [https://tortoisegit.org/] |
 | TeamViewer | [https://www.teamviewer.com] |
+| Fiscales | [https://mega.nz/folder/VnxF1YJS#JNRHsVM1-xQtM53qIdzHNw] |
 | Otros SP | [https://mega.nz/folder/kqgRRQyb#2AhuETnwk4NVHubZH7qZuw] |
