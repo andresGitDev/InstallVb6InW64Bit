@@ -93,10 +93,25 @@ Utilice los siguientes link
     -Ejecutar Keygen6.exe, copiar serial , ejecutar Setup.exe y utilizar el serial copiada
 
 
-## 09 - Instalacion de Office 2003/2007/2010/2014
+## 09 - Instalacion de Off. 2003/2007/2010/2014
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [Disco 2003](https://mega.nz/file/c3YGRSQa#y4U7UKhQPTJSRsmE4S1plpq_2PmehRl3_KMyRWMfZPA)
 
+    -Clave: Dentro del disco, en la raiz archivo serials.txt
+
+- Descargar [Disco 2007](https://mega.nz/file/07x1XRja#bqAisilVM6qPErS5_SDAwnjFck2CXhJAyxGWEhvJx2M)
+
+    -Clave: Dentro del disco, en la raiz archivo serial.txt
+
+- Descargar [Disco 2010](https://mega.nz/file/Qjgl0YDT#Bll2J5iSSjsTgad-SO2haaGigsr1O00o1cD8_2qvKQs)
+
+    -Clave: Dentro del disco, en la raiz ejecutar Office 2010 Toolkit 2.1.4.exe
+
+- Descargar [Disco 2014](https://mega.nz/file/hm4RgRJB#a3zCHCj7GvJjQ-wys-8LjQygfJftXYdRwsAiBrWFkv0)
+
+    -Clave: Dentro del disco, en la raiz, carpeta activador, seguir instrucciones en imagen instrucciones.jpg
+
+- Segun requiera el proyecto se debe instalar el disco correspondiente para que registre las ocx
 
 ## 10 - Instalacion de SQL Server 2005/2008R2/2014
 
