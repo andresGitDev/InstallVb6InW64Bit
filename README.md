@@ -125,7 +125,7 @@ Utilice los siguientes link
 
 ## 11 - Instalacion de Chilkatax 9.5.0 (Para proceso de QR)
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
+- Descargar [Chilkatax Win32](https://mega.nz/file/53QVHQiY#NK_2bgsP69xs2sXAOD6H3gCoOdouyfrs-NaQouZfr3I)
 
 ## 12 - Detalles post Instalacion
 ```sh
