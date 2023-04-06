@@ -19,7 +19,7 @@ Soporte para instalacion de ambiente de trabajo para visual basic 6 sp 6
 - Afip WebService 92.2
 - Universal Document 6.5
 - Office 2003/2007/2010/2014
-- Sql Server 2005/2008R2/2014
+- Sql Server 2000/2005/2008R2/2014
 - Chilkatax 9.5.0
 
 Todo lo explicado en esta guia fue testeado en windows 7/8/10/11, basicamente si solo se desea VB6 en windows 64 bit, solo llegar al paso 1, lo demas es para proyectos de betasepp.
@@ -113,10 +113,15 @@ Utilice los siguientes link
 
 - Segun requiera el proyecto se debe instalar el disco correspondiente para que registre las ocx
 
-## 10 - Instalacion de SQL Server 2005/2008R2/2014
+## 10 - Instalacion de SQL Server 2000/2005/2008R2/2014
 
-- Descargar [x](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
-
+- Descargar [ISO SQL2000 e](https://mega.nz/file/pywiUDpI#GxWJwmVl02VbJaA1DuT7zz_9deJFQ--Q0E6alH6znBU)
+- Descargar [ISO SQL2005 A](https://mega.nz/file/13QUXQKD#FPEZTGCj3pQWOsw0RyeG9xlj_CIRvzFpmCdZtHz-k30)
+- Descargar [ISO SQL2005 B](https://mega.nz/file/4uI1ES5L#uDgZxQ07LLoRSBxTQgJof5HSuf0iMLPF87-qRPEl4oA)
+- Descargar [ISO SQL2008 R2](https://mega.nz/file/F2BiSASC#u7KHCdJtOQfxQX2iUPUZYlBhdVZUr1C8Czkt3NxCCe4)
+- Descargar [ISO SQL2014](https://mega.nz/file/JuRl2TCZ#X8MyPK8HrTEq2GIniJ2EpNevUB299c5hbQohtSyhRpc)
+- Descargar [TXT Clave for 2014](https://mega.nz/file/o2ZG2SrD#1x1soWnQ_9duh205apTNppDWwaB6Z-NlFgEvOCS67go)
+- Descargar [NET 3.5 for 2014](https://mega.nz/file/4yhFFaIb#hnXJhDCHZOJ36BFxz-NbtjsCQyTb5290ac5Ms1CM8Vw)
 
 ## 11 - Instalacion de Chilkatax 9.5.0 (Para proceso de QR)
 
