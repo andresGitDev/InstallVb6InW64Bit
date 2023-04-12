@@ -39,7 +39,7 @@ Utilice los siguientes link
     -Ejecutar Setup.exe, segun la version de windows puede finalizar
     ![final correcto](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/install-vb6-final.JPG)
 
-    -O no, quedara como en la siguiente imagen y no termina, cerrar el proceso
+    -O no, quedara como en la siguiente imagen y no termina (calcular 5 min de espera), cerrar el proceso
         ![final no correcto](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/install-vb6-no-final.JPG)
 
 - Segundo paso [Visual Basic (Complemento)](https://mega.nz/file/N2BjlKzJ#xir3Ayg3MXNRFpXMBvBbnWllSWb7Ri-rjnAdk8qPDpA)
@@ -69,7 +69,7 @@ Utilice los siguientes link
 
 ## 05 - Instalacion de Librerias para System32 y SysWOW64
 
-- Descargar [Librerias](https://mega.nz/file/c7xC0YpD#vzorXkz0Acg74bmOrYh4a2NFhSlb3wjaMV19aXyHa9w)
+- Descargar [Librerias](https://mega.nz/file/4y50RZKZ#_gQED-0EesXrdNjIV1iKThVhgWAI_kz4ys-w_9SUoVc)
 
     -Copias todas en carpeta C:\Windows\System32 y C:\Windows\SysWOW64
     -Luego dependiendo del proyecto y el error sera necesario cagarlo como componente
