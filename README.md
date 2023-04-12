@@ -35,6 +35,7 @@ Utilice los siguientes link
 - Primer paso [Visual Basic 6 (Base)](https://mega.nz/file/EiQk1ZAQ#AIew-VCsE87Z3rzMdseyFun9B1XZUbZPwUBcWw224oc)
 
     -Serial : Llenar todo con el numero 1
+
     -Ejecutar Setup.exe, segun la version de windows puede finalizar
     ![final correcto](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/install-vb6-final.JPG)
 
