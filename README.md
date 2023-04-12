@@ -75,10 +75,10 @@ Utilice los siguientes link
     -Luego dependiendo del proyecto y el error sera necesario cagarlo como componente
 
     OPCION DE VB6
-    ![opcion componentes](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/menu-componentes.JPG)
+    ![opcion componentes](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/menu-componentes.jpg)
 
     EJEMPO DE OCX
-    ![ejemplo componente ocx](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/ejemplo-componente.JPG)
+    ![ejemplo componente ocx](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/ejemplo-componente.jpg)
 
 - Descargar si se requiere [Net Framework 3.5 Base](https://mega.nz/file/YiAlVaxK#xgnVRY5MbdsaQIn42dCKs9zpg2O2B2s-RFngUkdBSbc)
 
