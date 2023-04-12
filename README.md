@@ -74,6 +74,12 @@ Utilice los siguientes link
     -Copias todas en carpeta C:\Windows\System32 y C:\Windows\SysWOW64
     -Luego dependiendo del proyecto y el error sera necesario cagarlo como componente
 
+    OPCION DE VB6
+    ![opcion componentes](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/menu-componentes.JPG)
+
+    EJEMPO DE OCX
+    ![ejemplo componente ocx](https://github.com/andresGitDev/InstallVb6InW64Bit/blob/master/images/ejemplo-componente.JPG)
+
 - Descargar si se requiere [Net Framework 3.5 Base](https://mega.nz/file/YiAlVaxK#xgnVRY5MbdsaQIn42dCKs9zpg2O2B2s-RFngUkdBSbc)
 
 - Descargar si se requiere  [Net Framework 3.5 Completo](https://mega.nz/file/Y3ATyLpT#XeZUq5qCCaIfTselzPsBvUmmApdfOod2mAfswnhhemk)
