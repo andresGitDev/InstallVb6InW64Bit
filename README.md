@@ -74,13 +74,13 @@ Utilice los siguientes link
     -Copias todas en carpeta C:\Windows\System32 y C:\Windows\SysWOW64
     -Luego dependiendo del proyecto y el error sera necesario cagarlo como componente
 
-- Descargar [Net Framework 3.5 Base](https://mega.nz/file/YiAlVaxK#xgnVRY5MbdsaQIn42dCKs9zpg2O2B2s-RFngUkdBSbc)
+- Descargar si se requiere [Net Framework 3.5 Base](https://mega.nz/file/YiAlVaxK#xgnVRY5MbdsaQIn42dCKs9zpg2O2B2s-RFngUkdBSbc)
 
-- Descargar [Net Framework 3.5 Completo](https://mega.nz/file/Y3ATyLpT#XeZUq5qCCaIfTselzPsBvUmmApdfOod2mAfswnhhemk)
+- Descargar si se requiere  [Net Framework 3.5 Completo](https://mega.nz/file/Y3ATyLpT#XeZUq5qCCaIfTselzPsBvUmmApdfOod2mAfswnhhemk)
 
-- Descargar [Net Framework 3.5 Full](https://mega.nz/file/4yhFFaIb#hnXJhDCHZOJ36BFxz-NbtjsCQyTb5290ac5Ms1CM8Vw)
+- Descargar si se requiere  [Net Framework 3.5 Full](https://mega.nz/file/4yhFFaIb#hnXJhDCHZOJ36BFxz-NbtjsCQyTb5290ac5Ms1CM8Vw)
 
-- Descargar [SMTP](https://mega.nz/file/J7A3WIIA#nGMubwew62zpc4R-XySELO1KOyHz4SJAJcEXTiC9BSE)
+- Descargar si se requiere  [SMTP](https://mega.nz/file/J7A3WIIA#nGMubwew62zpc4R-XySELO1KOyHz4SJAJcEXTiC9BSE)
 
 ## 06 - Instalacion de Crystal Report
 
@@ -104,19 +104,19 @@ Utilice los siguientes link
 
 ## 09 - Instalacion de Off. 2003/2007/2010/2014
 
-- Descargar [Disco 2003](https://mega.nz/file/c3YGRSQa#y4U7UKhQPTJSRsmE4S1plpq_2PmehRl3_KMyRWMfZPA)
+- Descargar si se requiere [Disco 2003](https://mega.nz/file/c3YGRSQa#y4U7UKhQPTJSRsmE4S1plpq_2PmehRl3_KMyRWMfZPA)
 
     -Clave: Dentro del disco, en la raiz archivo serials.txt
 
-- Descargar [Disco 2007](https://mega.nz/file/07x1XRja#bqAisilVM6qPErS5_SDAwnjFck2CXhJAyxGWEhvJx2M)
+- Descargar si se requiere [Disco 2007](https://mega.nz/file/07x1XRja#bqAisilVM6qPErS5_SDAwnjFck2CXhJAyxGWEhvJx2M)
 
     -Clave: Dentro del disco, en la raiz archivo serial.txt
 
-- Descargar [Disco 2010](https://mega.nz/file/Qjgl0YDT#Bll2J5iSSjsTgad-SO2haaGigsr1O00o1cD8_2qvKQs)
+- Descargar si se requiere [Disco 2010](https://mega.nz/file/Qjgl0YDT#Bll2J5iSSjsTgad-SO2haaGigsr1O00o1cD8_2qvKQs)
 
     -Clave: Dentro del disco, en la raiz ejecutar Office 2010 Toolkit 2.1.4.exe
 
-- Descargar [Disco 2014](https://mega.nz/file/hm4RgRJB#a3zCHCj7GvJjQ-wys-8LjQygfJftXYdRwsAiBrWFkv0)
+- Descargar si se requiere [Disco 2014](https://mega.nz/file/hm4RgRJB#a3zCHCj7GvJjQ-wys-8LjQygfJftXYdRwsAiBrWFkv0)
 
     -Clave: Dentro del disco, en la raiz, carpeta activador, seguir instrucciones en imagen instrucciones.jpg
 
@@ -124,12 +124,12 @@ Utilice los siguientes link
 
 ## 10 - Instalacion de SQL Server 2000/2005/2008R2/2014
 
-- Descargar [ISO SQL2000 e](https://mega.nz/file/pywiUDpI#GxWJwmVl02VbJaA1DuT7zz_9deJFQ--Q0E6alH6znBU)
-- Descargar [ISO SQL2005 A](https://mega.nz/file/13QUXQKD#FPEZTGCj3pQWOsw0RyeG9xlj_CIRvzFpmCdZtHz-k30)
-- Descargar [ISO SQL2005 B](https://mega.nz/file/4uI1ES5L#uDgZxQ07LLoRSBxTQgJof5HSuf0iMLPF87-qRPEl4oA)
-- Descargar [ISO SQL2008 R2](https://mega.nz/file/F2BiSASC#u7KHCdJtOQfxQX2iUPUZYlBhdVZUr1C8Czkt3NxCCe4)
-- Descargar [ISO SQL2014](https://mega.nz/file/JuRl2TCZ#X8MyPK8HrTEq2GIniJ2EpNevUB299c5hbQohtSyhRpc)
-- Descargar [TXT Clave for 2014](https://mega.nz/file/o2ZG2SrD#1x1soWnQ_9duh205apTNppDWwaB6Z-NlFgEvOCS67go)
+- Descargar si se requiere [ISO SQL2000 e](https://mega.nz/file/pywiUDpI#GxWJwmVl02VbJaA1DuT7zz_9deJFQ--Q0E6alH6znBU)
+- Descargar si se requiere [ISO SQL2005 A](https://mega.nz/file/13QUXQKD#FPEZTGCj3pQWOsw0RyeG9xlj_CIRvzFpmCdZtHz-k30)
+- Descargar si se requiere [ISO SQL2005 B](https://mega.nz/file/4uI1ES5L#uDgZxQ07LLoRSBxTQgJof5HSuf0iMLPF87-qRPEl4oA)
+- Descargar si se requiere [ISO SQL2008 R2](https://mega.nz/file/F2BiSASC#u7KHCdJtOQfxQX2iUPUZYlBhdVZUr1C8Czkt3NxCCe4)
+- Descargar si se requiere [ISO SQL2014](https://mega.nz/file/JuRl2TCZ#X8MyPK8HrTEq2GIniJ2EpNevUB299c5hbQohtSyhRpc)
+- Descargar si se requiere [TXT Clave for 2014](https://mega.nz/file/o2ZG2SrD#1x1soWnQ_9duh205apTNppDWwaB6Z-NlFgEvOCS67go)
 
 
 ## 11 - Instalacion de Chilkatax 9.5.0 (Para proceso de QR)
